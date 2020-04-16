@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "COVID-19",
+    "slug": "covid-19",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "\nApp to monitor the progress of covid19 in Brazil",
+    "githubUrl": "https://github.com/vinniciusgomes/covid19-app"
+  }
+}
