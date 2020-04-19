@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Covid19" title="Covid19" src=".github/logo.png" width="150px" />
-</h1>
-
 <h4 align="center">
   App to monitor the progress of COVID19 in Brazil
 </h4>
@@ -74,7 +70,11 @@ Autor: Alisson de Andrade Araujo"
 
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
- - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
+ - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19)
+
+ - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa/)
+ 
+  - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
 
 - [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react/)
 
@@ -82,6 +82,8 @@ Autor: Alisson de Andrade Araujo"
 
 - [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativetindev)
 
+- [Simulação de Loja Virtual](https://alissonandradesistema.000webhostapp.com/temadark)
+ 
 - [Site e sistema de loja virtual - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/lojavirtual)
 
 - [Site e sistema - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/sistemas)
@@ -94,5 +96,3 @@ Autor: Alisson de Andrade Araujo"
 
 
 :vulcan_salute::vulcan_salute: ***OBRIGADO PELO CARINHO E ATENÇÃO !!***  :vulcan_salute::vulcan_salute:
-
-
